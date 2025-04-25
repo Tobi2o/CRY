@@ -1,0 +1,12 @@
+STUDENT_NAME="harun"
+STUDENT_PASSWD="CszmLrPYtDMWGUfb"
+STUDENT_ID="09"
+
+
+----------------------------
+Commandes personnelles :
+
+ssh -p 2209 labo@10.190.133.22
+
+
+https://10.190.133.22:44309
